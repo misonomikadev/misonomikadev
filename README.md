@@ -1,16 +1,37 @@
-### Hi there 👋
+#
+<div>
+<img src="./assets/HeadIcon.png" width="300" align="right" />
+<br/>
+<img src="./assets/AboutMe-Mika.png" width="500" />
+<br/>
+  
+- Name: **Misono Mika**
 
-<!--
-**misonomikadev/misonomikadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Live in: **Ho Chi Minh, Viet Nam**
 
-Here are some ideas to get you started:
+- Studying: ***Machine Learning and Website Developing***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Good with **Javascript** , **Typescript** , **C++** , **CSS** , **HTML** and **Python**
+
+- Familiar with **Debian**, **Ubuntu** and **Linux**
+
+- Understand **Japanese (Newbie)**, **Vietnamese (Native)**, and **English (Fluent)**
+<img src="./assets/MisonoMika.png" width="300" align="right" style="border-radius: 10px" />
+<br/>
+<img src="./assets/Repositories-Mika.png" width="500" />
+<br/>
+<br/>
+  
+- 📗 [***misonomikadev/Chino-chan-Bot***](https://github.com/misonomikadev/Chino-chan-Bot) <br/>
+  A Messenger Bot is integrated ChatGPT.
+- 📘 [***misonomikadev/messenger-api.js***](https://github.com/misonomikadev/messenger-api.js) <br/>
+  A powerful Node.js module that allow you to interact with the Facebook API.
+- 📙 [***misonomikadev/ChatGPTFacebookPage***](https://github.com/misonomikadev/ChatGPTFacebookPage) <br/>
+  A Fanpage Facebook Bot intergrated ChatGPT.
+
+<br/>
+<img src="./assets/banner.jpg" width="500" style="border-radius: 10px" /><br/>
+  
+<sub> *“Thanks for waiting! It's my turn to jump in! ☆” – Misono Mika* </sub>
+
+</div>
