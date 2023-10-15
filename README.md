@@ -18,6 +18,7 @@
 - Understand **Japanese (Newbie)**, **Vietnamese (Native)**, and **English (Fluent)**
 <img src="./assets/MisonoMika.png" width="300" align="right" style="border-radius: 10px" />
 <br/>
+<br/>
 <img src="./assets/Repositories-Mika.png" width="500" />
 <br/>
 <br/>
