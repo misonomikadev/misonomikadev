@@ -30,7 +30,8 @@
   A Fanpage Facebook Bot intergrated ChatGPT.
 
 <br/>
-<img src="./assets/banner.jpg" width="500" style="border-radius: 10px" /><br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/898521048545374248)](https://discord.com/users/898521048545374248)
   
 <sub> *“Thanks for waiting! It's my turn to jump in! ☆” – Misono Mika* </sub>
 
