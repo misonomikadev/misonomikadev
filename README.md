@@ -34,7 +34,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/898521048545374248)](https://discord.com/users/898521048545374248)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=misonomikadev&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=misonomikadev&width=410&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 <sub> *“Thanks for waiting! It's my turn to jump in! ☆” – Misono Mika* </sub>
 
