@@ -8,7 +8,7 @@
   
 - Name: **Misono Mika**
 
-- Live in: **Ho Chi Minh, Viet Nam**
+- Full Stack Developer **3+ years** experience.
 
 - Studying: ***Machine Learning and Website Developing***.
 
