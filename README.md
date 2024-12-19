@@ -8,7 +8,7 @@
   
 - Name: **Misono Mika**
 
-- Full Stack Developer **3+ years** experience.
+- Full Stack Developer **4+ years** experience.
 
 - Studying: ***Machine Learning and Website Developing***.
 
